@@ -17,6 +17,9 @@ const controlRecipes = async () => {
     if (!id) return; //guarding clause (NOTE: use for returning no params)
     recipeView.renderSpinner(); //loading animation
 
+    // 0. Update results view to mark selected search result
+    resultsView.update(model.getSearchResultsPage());
+
     // 1. Loading recipes
     await model.loadRecipe(id);
 
@@ -58,8 +61,18 @@ const controlPagination = goToPage => {
   paginationView.render(model.state.search);
 };
 
+const controlServings = newServings => {
+  // Update the recipe servings (in state)
+  model.updateServings(newServings);
+
+  // Update the recipe view or re-render recipe view
+  // recipeView.render(model.state.recipe);
+  recipeView.update(model.state.recipe); // only update attributes and certain markup from the DOM
+};
+
 const init = () => {
   recipeView.addHandlerRender(controlRecipes);
+  recipeView.addhandlerUpdateServings(controlServings);
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
 };
