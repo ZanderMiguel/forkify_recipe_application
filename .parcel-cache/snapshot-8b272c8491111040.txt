@@ -1,4 +1,4 @@
-9707
+9709
 185C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\svgo\lib\types.d.ts133644486523206405 0
 215C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\features\input-email-tel-url.js133644486858009610 0
 200C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\csso\cjs\replace\property\font.cjs133644486479585297 0
@@ -33,7 +33,7 @@
 198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\array-buffer\index.js133644685584396879 0
 175C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\is-number133644486313648219 1
 172C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@babel133644486027011968 1
-173C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\controller.js133650783995984791 0
+173C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\controller.js133651580487980548 0
 200C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\modules\esnext.set.some.js133644685514327332 0
 197C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\source-map\lib\binary-search.js133644486411689395 0
 195C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\full\function\name.js133644685633972377 0
@@ -51,7 +51,7 @@
 174C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\mdn-data133644486520828413 1
 195C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\profiler\src\types.js133644486438476114 0
 178C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lmdb\keys.js133644486661060095 0
-157C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist133650784040515647 1
+157C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist133651619465767173 1
 225C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\modules\es.array-buffer.transfer-to-fixed-length.js133644685472058643 0
 182C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\parcel\README.md133644486415007709 0
 210C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\features\es6-generators.js133644486731549354 0
@@ -105,6 +105,12 @@
 175C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\callsites133644486333101851 1
 194C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\array\for-each.js133644685536083933 0
 200C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\source-map-js\lib\binary-search.js133644486347182041 0
+211C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\stable\array\virtual\last-index-of.js133644685614273839 0
+193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\stable\math\sign.js133644685665870617 0
+216C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133644486637030789 0
+182C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views\bookmarksView.js133651616458056574 0
+174C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\msgpackr133644486567035682 1
+198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\full\iterator\indexed.js133644685594181038 0
 165C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules133645330021255418 1
 209C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\update-browserslist-db\check-npm-version.js133644486224755485 0
 208C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\stable\typed-array\reduce-right.js133644685649738884 0
@@ -221,7 +227,7 @@
 207C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\features\customevent.js133644486728372073 0
 202C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133644486651623104 0
 215C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\modules\es.symbol.is-concat-spreadable.js133644685492360978 0
-173C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views\View.js133649916359226350 0
+173C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views\View.js133651616173027783 0
 201C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lightningcss-win32-x64-msvc\LICENSE133644486176506856 0
 224C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose\package.json133644486723586181 0
 223C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-svgo\node_modules\csso\dist\csso.min.js133644486510412135 0
@@ -241,15 +247,6 @@
 176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\semver\bin133644486530885490 1
 189C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\source-map\CHANGELOG.md133644486446279433 0
 193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\instance\trim.js133644685703288577 0
-185C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\picocolors\types.ts133644486388842528 0
-205C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\transformer-babel\src\babel7.js133644486311310156 0
-174C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\has-flag133644486332327903 1
-205C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\features\async-iterator\drop.js133644685466633082 0
-232C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Number.js133644486530026228 0
-231C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Declaration.js133644486514127178 0
-245C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\specificity.js133644486535861324 0
-176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\color-name133644486322610978 1
-182C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lmdb\src\dbi.cpp133644486623646739 0
 217C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\features\extended-system-fonts.js133644486732478555 0
 208C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\stable\string\virtual\trim-left.js133644685701290288 0
 169C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\img\logo.png133644485331676146 0
@@ -284,7 +281,7 @@
 186C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\msgpackr-extract\bin133644486324890692 1
 186C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lmdb\src\lmdb-js.cpp133644486626840197 0
 170C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\helpers.js133645359161695357 0
-165C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views133649785935063980 1
+165C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views133651609358000635 1
 196C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\actual\get-iterator.js133644685545717121 0
 179C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views\recipeView.js133650781842170057 0
 196C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\csso\node_modules\css-tree\lib133644486723526223 1
@@ -294,7 +291,7 @@
 190C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\term-size\vendor\windows133644486351488348 1
 193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\package-manager\src133644486521208122 1
 210C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\modules\esnext.uint8-array.to-hex.js133644685517896957 0
-180C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views\resultsView.js133650758957208442 0
+180C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views\resultsView.js133651620754209125 0
 178C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\resolve-from133644486313578205 1
 179C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views\searchView.js133645446560343598 0
 202C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\features\typed-array\join.js133644685610057443 0
@@ -376,10 +373,6 @@
 233C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.d.ts133644486566026543 0
 187C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\source-map-js\LICENSE133644486169905117 0
 205C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\css-tree\lib\syntax\node\Parentheses.js133644486712467679 0
-193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lightningcss\node\index.mjs133644486439894906 0
-192C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\full\math\clz32.js133644685449211767 0
-202C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\string\virtual\pad-end.js133644685640676640 0
-193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\array\reverse.js133644685658466965 0
 198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\core\lib\ParcelConfig.js133644486652332503 0
 203C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\features\dataset.js133644486729091495 0
 186C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\svgo\lib\svgo\coa.js133644486514009939 0
@@ -400,6 +393,15 @@
 183C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\picomatch\LICENSE133644486172108109 0
 184C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\chrome-trace-event133644486353986204 1
 196C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\actual\number\index.js133644685583061295 0
+185C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\picocolors\types.ts133644486388842528 0
+205C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\transformer-babel\src\babel7.js133644486311310156 0
+174C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\has-flag133644486332327903 1
+205C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\features\async-iterator\drop.js133644685466633082 0
+232C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Number.js133644486530026228 0
+231C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Declaration.js133644486514127178 0
+245C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\specificity.js133644486535861324 0
+176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\color-name133644486322610978 1
+182C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lmdb\src\dbi.cpp133644486623646739 0
 206C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\stable\string\virtual\pad-end.js133644685641156243 0
 210C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\features\dom-collections\for-each.js133644685536453952 0
 196C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\full\typed-array\at.js133644685444405873 0
@@ -525,7 +527,7 @@
 198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\react-error-overlay\package.json133644486411539522 0
 186C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\escape-string-regexp133644486313798026 1
 204C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\typed-array\reduce-right.js133644685649189344 0
-168C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.html133650784038557335 0
+168C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.html133651614779019459 0
 176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\fill-range133644486313927923 1
 197C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\htmlparser2\lib\Parser.d.ts.map133644486428766808 0
 198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\actual\array\iterator.js133644685607559609 0
@@ -672,11 +674,6 @@
 188C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\csso\cjs\clean\Raw.cjs133644486522047368 0
 198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\instance\find-last.js133644685527445528 0
 176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\micromatch133644486313648219 1
-211C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\stable\array\virtual\last-index-of.js133644685614273839 0
-193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\stable\math\sign.js133644685665870617 0
-216C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133644486637030789 0
-174C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\msgpackr133644486567035682 1
-198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\full\iterator\indexed.js133644685594181038 0
 182C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\msgpackr-extract133644486389881643 1
 196C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\full\json\stringify.js133644685676971105 0
 186C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\packager-raw133644486326489334 1
@@ -1388,10 +1385,6 @@
 196C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\css-what\lib\es\types.d.ts.map133644486457599906 0
 186C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\source-map\README.md133644486294985404 0
 194C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\timsort\build\timsort.min.js133644486393089152 0
-219C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\page.cjs133644486623139170 0
-202C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lightningcss\node\composeVisitors.js133644486417455609 0
-198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\abortcontroller-polyfill\LICENSE133644486186501209 0
-195C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\sass\types\legacy\render.d.ts133644486640345961 0
 242C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Operator.js133644486633038900 0
 186C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\term-size\index.d.ts133644486425114175 0
 184C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\term-size\index.js133644486392269860 0
@@ -1964,6 +1957,10 @@
 197C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\actual\object\create.js133644685457719582 0
 189C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lines-and-columns\build133644486336663551 1
 220C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\import.js133644486694483412 0
+219C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\page.cjs133644486623139170 0
+202C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lightningcss\node\composeVisitors.js133644486417455609 0
+198C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\abortcontroller-polyfill\LICENSE133644486186501209 0
+195C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\sass\types\legacy\render.d.ts133644486640345961 0
 188C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\safe-buffer\index.d.ts133644486347222004 0
 203C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\array\virtual\to-sorted.js133644685691218903 0
 206C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\actual\array\virtual\group-by.js133644685570941654 0
@@ -2857,6 +2854,10 @@
 188C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\callsites\package.json133644486185695606 0
 208C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\internals\iterator-create-proxy.js133644685606530476 0
 195C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lightningcss\node\ast.js.flow133644486340882687 0
+193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lightningcss\node\index.mjs133644486439894906 0
+192C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\full\math\clz32.js133644685449211767 0
+202C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\string\virtual\pad-end.js133644685640676640 0
+193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\es\array\reverse.js133644685658466965 0
 196C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\lightningcss\node\targets.d.ts133644486462092145 0
 211C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\core\src\public\MutableBundleGraph.js133644486633738369 0
 206C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\modules\es.regexp.constructor.js133644685485988827 0
@@ -3006,10 +3007,10 @@
 185C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\is-extglob\index.js133644486323082221 0
 193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\dom-serializer\package.json133644486404870442 0
 193C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\full\array\every.js133644685520173818 0
+214C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133644486450056207 0
 218C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\core-js\proposals\data-view-get-set-uint8-clamped.js133644685458049293 0
 184C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\is-extglob\LICENSE133644486307063783 0
 217C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@swc\helpers\cjs\_tagged_template_literal_loose.cjs133644486591078701 0
-214C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133644486450056207 0
 221C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Function.cjs133644486532154399 0
 190C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\entities\lib\encode.d.ts133644486497458935 0
 202C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133644486576181184 0
@@ -7970,7 +7971,7 @@
 197C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\regions\YE.js133644486897014094 0
 197C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\regions\ZA.js133644486897064060 0
 197C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\regions\ZM.js133644486897094033 0
-179C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.e37f48ea.js.map133650784039726331 0
+179C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.e37f48ea.js.map133651619464947870 0
 199C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\features\aac.js133644486337384073 0
 206C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\features\fullscreen.js133644486826583843 0
 211C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\caniuse-lite\data\features\abortcontroller.js133644486354465804 0
@@ -8720,7 +8721,7 @@
 192C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\transformer-js\lib133644486326279501 1
 236C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\TypeSelector.js133644486544438345 0
 201C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\transformer-js\package.json133644486392269860 0
-175C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\logo.726d37a8.png133650784038557335 0
+175C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\logo.726d37a8.png133651614779289234 0
 236C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133644486476181603 0
 229C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\transformer-js\node_modules\regenerator-runtime\LICENSE133644685423413372 0
 232C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\@parcel\transformer-js\node_modules\regenerator-runtime\runtime.js133644685423678525 0
@@ -9701,8 +9702,9 @@
 181C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\.bin\semver.ps1133644486898312974 0
 175C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\.bin\svgo133644486898452855 0
 179C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\node_modules\.bin\svgo.cmd133644486898382921 0
-178C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\favicon.8b2f57bf.png133650784039336679 0
-176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\icons.21bad73c.svg133650784039336679 0
-175C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.e37f48ea.js133650784039556477 0
-176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.f7626f62.css133650784039906192 0
-180C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.f7626f62.css.map133650784040115993 0
+180C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\src\js\views\previewView.js133651615931265550 0
+176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.f7626f62.css133651614779019459 0
+178C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\favicon.8b2f57bf.png133651614779349158 0
+176C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\icons.21bad73c.svg133651614779299202 0
+180C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.f7626f62.css.map133651614779399121 0
+175C:\Users\USER\Desktop\ZANDER MIGUEL MIRADOR\PERSONAL\Web Development\Javascript\complete-javascript-course-master\18-forkify\starter\javascript_projects\dist\index.e37f48ea.js133651619464648146 0
